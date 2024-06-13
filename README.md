@@ -174,12 +174,10 @@ Dedicated to crafting elegant and scalable solutions.
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=svelte" alt="icon" alt="Svelte" />  
       <br>Svelte  
     </td>
-
-     <td align="center" width="80">  
+    <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=svelte" alt="icon" alt="Svelte" />  
       <br>Svelte kit 
     </td>
-    
     <td align="center" width="80">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=electron" alt="icon" alt="Electron" />  
       <br>Electron  
