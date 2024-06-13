@@ -8,7 +8,6 @@ Architecting networks for a decade, sculpting database landscapes for 8 years, a
 Dedicated to crafting elegant and scalable solutions.
 
 # I am
-
 ```
   👨‍💻 Professional Software Engineer
   💻 Expert in Enterprise-Level Development with Web and Mobile Experience
